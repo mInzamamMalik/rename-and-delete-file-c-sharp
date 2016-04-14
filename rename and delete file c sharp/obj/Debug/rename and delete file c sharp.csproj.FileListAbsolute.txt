@@ -1,0 +1,9 @@
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\bin\Debug\rename and delete file c sharp.exe.config
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\bin\Debug\rename and delete file c sharp.exe
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\bin\Debug\rename and delete file c sharp.pdb
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename and delete file c sharp.csprojResolveAssemblyReference.cache
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename_and_delete_file_c_sharp.Form1.resources
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename_and_delete_file_c_sharp.Properties.Resources.resources
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename and delete file c sharp.csproj.GenerateResource.Cache
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename and delete file c sharp.exe
+c:\users\205\documents\visual studio 2015\Projects\rename and delete file c sharp\rename and delete file c sharp\obj\Debug\rename and delete file c sharp.pdb
